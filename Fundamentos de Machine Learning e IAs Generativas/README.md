@@ -18,7 +18,7 @@
 
 <!--💬GREETING & TITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg --> 
 <p align="center"> 
-    <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&color=9EF0F0&weight=600&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Machine+Learning+Sem+Código>;<com+Amazon+SageMaker+Canvas>">
+    <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&color=9EF0F0&weight=600&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Fundamentos+de+Machine+Learning>;<e+IAs+Generativas>">
 </p>
 
 
