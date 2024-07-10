@@ -1,6 +1,6 @@
 <div align=center>
-    <a href="https://github.com/Amanda-ribeiiro/machine-learning-aws/blob/main/Fundamentos%20de%20Machine%20Learning%20e%20IAs%20Generativas/README.md"><img src="https://img.shields.io/badge/Idioma-PT-9EF0F0"></a>
-    <a href="https://github.com/Amanda-ribeiiro/machine-learning-aws/blob/main/Fundamentos%20de%20Machine%20Learning%20e%20IAs%20Generativas/README.en.md"><img src="https://img.shields.io/badge/Language-EN-007D79"></a>
+    <a href="https://github.com/Amanda-ribeiiro/machine-learning-aws/blob/main/Machine%20Learning%20Sem%20C%C3%B3digo%20com%20Amazon%20SageMaker%20Canvas/README.md"><img src="https://img.shields.io/badge/Idioma-PT-9EF0F0"></a>
+    <a href="https://github.com/Amanda-ribeiiro/machine-learning-aws/blob/main/Machine%20Learning%20Sem%20C%C3%B3digo%20com%20Amazon%20SageMaker%20Canvas/README.en.md"><img src="https://img.shields.io/badge/Language-EN-007D79"></a>
 </div>
 
 <br>
@@ -45,11 +45,11 @@
     </thead>
     <tbody align="left">
         <tr>
-            <td>Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!</td>
-            <td align="center">3</td>
+            <td>Introdução ao Desenvolvimento Low-Code</td>
+            <td align="center">8</td>
             <td align="center">
                 <a href="" target="_blank">
-                    <img align="center" alt="Link" src="https://img.shields.io/badge/Ver%20Curso%20-9EF0F0?style=for-the-badge&link=https://web.dio.me/course/bootcamps-dio-educacao-gratuita-e-empregabilidade-juntas/learning/69d466f2-65e7-4799-b5d9-1074a9884313?back=/track/bootcamp-nexa-machine-learning-para-iniciantes-na-aws&tab=undefined&moduleId=undefined">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Ver%20Curso%20-9EF0F0?style=for-the-badge&link=https://web.dio.me/course/introducao-ao-desenvolvimento-low-code/learning/6f547f55-7d02-4889-b56f-778f0ef83885?back=/track/bootcamp-nexa-machine-learning-para-iniciantes-na-aws&tab=undefined&moduleId=undefined">
                 </a>
             </td>
         </tr>
@@ -63,29 +63,56 @@
             </td>
         </tr>
         <tr>
-            <td>Processamento de Linguagem Natural</td>
-            <td align="center">5</td>
+            <td>Introdução ao SageMaker Canvas: IA Generativa Sem Código</td>
+            <td align="center">8</td>
             <td align="center">
                 <a href="" target="_blank">
-                    <img align="center" alt="Link" src="https://img.shields.io/badge/Ver%20Curso%20-007D79?style=for-the-badge&link=https://web.dio.me/course/processamento-de-linguagem-natural/learning/521db34c-3fc4-4c50-91e5-1832396c1158?back=/track/bootcamp-nexa-machine-learning-para-iniciantes-na-aws&tab=undefined&moduleId=undefined">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Ver%20Curso%20-007D79?style=for-the-badge&link=https://web.dio.me/course/introducao-ao-sagemaker-canvas-ia-generativa-sem-codigo/learning/a8eaa375-2c1c-4038-8cf9-342a079ada17?back=/track/bootcamp-nexa-machine-learning-para-iniciantes-na-aws&tab=undefined&moduleId=undefined">
                 </a>
             </td>
         </tr>
         <tr>
-            <td>O que são IAs Generativas</td>
-            <td align="center">6</td>
+            <td>Transformando Dados em Insights com SageMaker Canvas</td>
+            <td align="center">14</td>
             <td align="center">
                 <a href="" target="_blank">
-                    <img align="center" alt="Link" src="https://img.shields.io/badge/Ver%20Curso%20-007D79?style=for-the-badge&link=https://web.dio.me/course/o-que-sao-ias-generativas/learning/d136c503-5ab7-448e-997b-0d82db8bcce2?back=/track/bootcamp-nexa-machine-learning-para-iniciantes-na-aws&tab=undefined&moduleId=undefined">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Ver%20Curso%20-007D79?style=for-the-badge&link=https://web.dio.me/course/transformando-dados-em-insights-com-sagemaker-canvas/learning/653e5152-7f5c-4722-8ef2-bbc73d0e7fd2?back=/track/bootcamp-nexa-machine-learning-para-iniciantes-na-aws&tab=undefined&moduleId=undefined">
                 </a>
             </td>
         </tr>
         <tr>
-            <td>Aula Inaugural: Bootcamp Nexa - Machine Learning para Iniciantes na AWS</td>
-            <td align="center">-</td>
+            <td>Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional</td>
+            <td align="center">3</td>
             <td align="center">
                 <a href="" target="_blank">
-                    <img align="center" alt="Link" src="https://img.shields.io/badge/Ver%20Curso%20-007D79?style=for-the-badge&link=">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Ver%20Curso%20-007D79?style=for-the-badge&link=https://web.dio.me/course/desafios-de-codigo-aperfeicoe-sua-logica-e-pensamento-computacional/learning/e294adbf-9f6b-434b-a9ab-3645b166457e?back=/track/bootcamp-nexa-machine-learning-para-iniciantes-na-aws&tab=undefined&moduleId=undefined">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>Explorando o SageMaker Canvas com Lógica de Programação</td>
+            <td align="center">3</td>
+            <td align="center">
+                <a href="" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Ver%20Curso%20-007D79?style=for-the-badge&link=https://web.dio.me/coding/explorando-o-sagemaker-canvas-com-logica-de-programacao/algorithm/identificando-os-beneficios-do-sagemaker-canvas?back=/track/bootcamp-nexa-machine-learning-para-iniciantes-na-aws&tab=undefined&moduleId=undefined">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>Desafios de Projetos: Crie Um Portfólio Vencedor</td>
+            <td align="center">3</td>
+            <td align="center">
+                <a href="" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Ver%20Curso%20-007D79?style=for-the-badge&link=https://web.dio.me/course/desafios-de-projetos-crie-um-portfolio-vencedor/learning/37bfd7e4-fadd-48c2-831b-a95f84d244db?back=/track/bootcamp-nexa-machine-learning-para-iniciantes-na-aws&tab=undefined&moduleId=undefined">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>Previsão de Estoque Inteligente na AWS com Sagemaker Canvas</td>
+            <td align="center">7</td>
+            <td align="center">
+                <a href="" target="_blank">
+                    <img align="center" alt="Link" src="https://img.shields.io/badge/Ver%20Curso%20-007D79?style=for-the-badge&link=https://web.dio.me/project/previsao-de-estoque-inteligente-na-aws-com-sagemaker-canvas/learning/ffef89ee-fc32-43c6-b7f6-d5fa522f0847?back=/track/bootcamp-nexa-machine-learning-para-iniciantes-na-aws&tab=undefined&moduleId=undefined">
                 </a>
             </td>
         </tr>
