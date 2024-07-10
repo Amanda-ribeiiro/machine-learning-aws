@@ -63,29 +63,11 @@
             </td>
         </tr>
         <tr>
-            <td></td>
-            <td align="center"></td>
-            <td align="center">
-                <a href="" target="_blank">
-                    <img align="center" alt="Link" src="https://img.shields.io/badge/Ver%20Curso%20-007D79?style=for-the-badge&link=">
-                </a>
-            </td>
-        </tr>
-        <tr>
             <td>Processamento de Linguagem Natural</td>
-            <td align="center"></td>
+            <td align="center">5</td>
             <td align="center">
                 <a href="" target="_blank">
                     <img align="center" alt="Link" src="https://img.shields.io/badge/Ver%20Curso%20-007D79?style=for-the-badge&link=https://web.dio.me/course/processamento-de-linguagem-natural/learning/521db34c-3fc4-4c50-91e5-1832396c1158?back=/track/bootcamp-nexa-machine-learning-para-iniciantes-na-aws&tab=undefined&moduleId=undefined">
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td></td>
-            <td align="center"></td>
-            <td align="center">
-                <a href="" target="_blank">
-                    <img align="center" alt="Link" src="https://img.shields.io/badge/Ver%20Curso%20-007D79?style=for-the-badge&link=">
                 </a>
             </td>
         </tr>
